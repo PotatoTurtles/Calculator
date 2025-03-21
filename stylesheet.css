@@ -1,3 +1,8 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
 #calcContainer{
     max-width: 500px;
     min-height: 650px;
@@ -43,5 +48,5 @@ button{
     background-color: rgb(227, 227, 96);
 }
 #zero{
-    flex: 2 1 215px;
+    flex: 3 1 330px;
 }
